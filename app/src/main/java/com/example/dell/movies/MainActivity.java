@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("RESULT: ", result);
                 result += line;
             }
-            
+
             return result;
         }
         @Override
